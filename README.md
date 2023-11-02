@@ -6,7 +6,7 @@ All my youtube related content hosted on yt.stevesteacher.com will be available 
 
 You may need to run `pip install "uvicorn[standard]"` (if it was not installed automatically)
 
-`uvicorn main:app --reload`
+`uvicorn __init__:app --reload`
 
 ---
 
