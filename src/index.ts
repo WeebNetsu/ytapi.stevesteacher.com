@@ -1,11 +1,10 @@
 import express from 'express';
+import quotesRouter from './routes/quotes';
 
 const app = express();
 
-app.get('/', (req, res) => {
-    res.send('Hello');
+app.use('/quotes', quotesRouter);
+
+app.listen(3000, () => {
+    console.log('Running on http://localhost:3000');
 });
-
-// app.use('/api', userRoutes);
-
-app.listen(3000);
