@@ -1,6 +1,6 @@
-# YT.STEVESTEACHER.COM
+# YTAPI.STEVESTEACHER.COM
 
-All my youtube related content hosted on yt.stevesteacher.com will be available here.
+All my youtube related content hosted on [ytapi.stevesteacher.com](https://ytapi.stevesteacher.com/quotes) will be available here.
 
 ## Running
 
