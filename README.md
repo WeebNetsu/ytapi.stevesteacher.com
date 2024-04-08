@@ -9,3 +9,16 @@ All my youtube related content hosted on [ytapi.stevesteacher.com](https://ytapi
 ## Important Endpoints
 
 -   `/quotes`
+
+
+<!-- Dev notes
+RENEW CERTIFICATE
+
+```
+sudo service nginx stop
+sudo certbot renew
+sudo service nginx start
+sudo service nginx restart
+```
+
+-->
