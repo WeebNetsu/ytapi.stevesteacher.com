@@ -4,12 +4,11 @@ All my youtube related content hosted on [ytapi.stevesteacher.com](https://ytapi
 
 ## Running
 
-`npm run dev`
+`npm start`
 
 ## Important Endpoints
 
--   `/quotes`
-
+- `/quotes`
 
 <!-- Dev notes
 RENEW CERTIFICATE
